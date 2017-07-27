@@ -1,0 +1,15 @@
+.search{
+    margin: 80px 120px 20px 120px;
+    display: flex;
+    width: 1208px;
+    justify-content: space-between;
+}
+
+
+.searchimage:hover{
+    cursor: pointer;
+}
+
+.filterDetails{
+    padding: 10px 0px;
+}

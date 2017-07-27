@@ -1,0 +1,52 @@
+.cards-wrapper{
+    display: inline-flex;
+    margin: 0px 100px;
+}
+
+.card{
+    display: inline-block;
+    margin: 0px 20px;
+    background: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    width: 270px;
+    height: 250px;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.05);
+}
+
+.delete:hover{
+    cursor: pointer;
+}
+
+.download:hover{
+    cursor: pointer;
+}
+
+.plus:hover{
+    cursor: pointer;
+}
+
+.plus {
+    margin: 40px 0px;
+}
+
+.default {
+    margin: 40px 0px 5px;
+}
+
+.delete{
+    margin: 0px 10px;
+}
+
+.project_name{
+    font-size: 20px;
+    color: #5d5d5d;
+    display: block;
+    margin: 5px 0px;
+}
+.project_lastED{
+    font-size: 14px;
+    color: #c6c6c6;
+    display: block;
+    margin: 5px 0px;    
+}
